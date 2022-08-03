@@ -29,8 +29,8 @@ Link em: <a href="https://api.nasa.gov/#browseAPI">API - NASA</a>
 </p>
 
 <br>
+<br><h2>HTTP Request</h2>
 <p>O acesso da API é dado por:</p>
-<h2>HTTP Request</h2>
 <span style="background-color: #ccc; color: black;">GET https://api.nasa.gov/planetary/apod</span>
 <br>
 <br>
@@ -47,7 +47,7 @@ Link em: <a href="https://api.nasa.gov/#browseAPI">API - NASA</a>
 
 </h4>
 
-<h2>Códigos</h2>
+<br><h2>Códigos</h2>
 
 <h3>HTML</h3><br>
 
