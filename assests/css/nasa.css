@@ -1,0 +1,11 @@
+body {
+    min-height: 100vh;
+}
+
+p {
+    text-align: justify;
+}
+
+p.fs-3 {
+    text-align: center !important;
+}
