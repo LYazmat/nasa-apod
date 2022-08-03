@@ -40,6 +40,7 @@ Link em: <a href="https://api.nasa.gov/#browseAPI">API - NASA</a>
 
 |  Parameter |    Type    | Default | Description |
 |:----------:|:----------:|:-------:|-------------|
+|    key    | string |  none  | Token key to API access |
 |    date    | YYYY-MM-DD |  today  | The date of the APOD image to retrieve |
 | start_date | YYYY-MM-DD |   none  | The start of a date range, when requesting date for a range of dates. Cannot be used with date. |
 |  end_date  | YYYY-MM-DD |   none  | The end of the date range, when used with start_date. |
