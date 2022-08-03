@@ -47,7 +47,9 @@ Link em: <a href="https://api.nasa.gov/#browseAPI">API - NASA</a>
 
 </h4>
 
-<br><h3>HTML</h3><br>
+<h2>Códigos</h2>
+
+<h3>HTML</h3><br>
 
 ```html
 <!DOCTYPE html>
@@ -79,7 +81,7 @@ Link em: <a href="https://api.nasa.gov/#browseAPI">API - NASA</a>
 </html>
 ```
 
-<br><h3>CSS</h3><br>
+<h3>CSS</h3><br>
 
 ```css
 body {
@@ -95,7 +97,7 @@ p.fs-3 {
 }
 ```
 
-<br><h3>Javascript</h3><br>
+<h3>Javascript</h3><br>
 
 ```javascript
 // https://api.nasa.gov/planetary/apod?api_key=521rEK1dghO2zF4gOTNi7dvo6P7EKvqCEahBUv03
